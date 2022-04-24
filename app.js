@@ -10,4 +10,4 @@ function opposite(number) {
     return (number - number*2)
   }
 
-  //subtract the number by it self times two
+  //subtract the number by it self times two.
